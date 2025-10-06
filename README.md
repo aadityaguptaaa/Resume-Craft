@@ -31,13 +31,8 @@ Experience Resume Craft: [https://resume-craftx.netlify.app/](https://resume-cra
 ---
 
 ## 📸 Screenshots
-| Template Selection | Live Preview | PDF Download |
-|------------------|--------------|---------------|
-| ![Template](screenshots/template.png) | ![Preview](screenshots/preview.png) | ![PDF](screenshots/pdf.png) |
-
-*(Replace with actual screenshots)*
-
----
+![screencapture-resumegenx-netlify-app-2022-01-18-16_24_49](https://user-images.githubusercontent.com/64949957/159115311-42275489-8fbe-4d80-9f7c-4d308d9287ce.png)
+![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
 
 ## 🎯 Why Resume Craft?
 Resume Craft is **designed for job seekers** who want to make a strong impression:  

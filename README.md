@@ -13,7 +13,7 @@
 - **PDF Export:** High-quality resume downloads ready for submission
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices
 
-<br>
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
@@ -28,7 +28,7 @@
 ## 🚀 Live Demo
 Experience Resume Craft: [https://resume-craftx.netlify.app/](https://resume-craftx.netlify.app/)
 
-<br>
+
 
 ## 📸 Screenshots
 ![screencapture](https://github.com/aadityaguptaaa/Resume-Craft/blob/main/public/resume-craftx.netlify.app_.png?raw=true)

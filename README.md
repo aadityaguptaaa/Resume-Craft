@@ -61,6 +61,13 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 <br>
 
-## 📫 Connect with Me
-[Portfolio](https://aadityaguptaaa.github.io/My-Portfolio/) | [LinkedIn](https://www.linkedin.com/in/aadityaxgupta)
+## 📬 Contact
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityaxgupta)
+
+© 2025 Aaditya Gupta
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 

@@ -1,6 +1,7 @@
 # Resume Craft 📝
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=netlify)](https://resume-craftx.netlify.app/) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/274b5b40-b3af-4eff-8213-b21d41c9d511/deploy-status)](https://app.netlify.com/projects/resume-craftx/deploys)
 
 **Resume Craft** is a **professional, modern web application** that enables users to **create, customize, and download polished resumes** in minutes. Designed to enhance employability, it combines **ease-of-use with visually appealing templates** optimized for recruiters.
 
